@@ -1,3 +1,3 @@
 My name is chinthan
-Vivekananda Polytechnic
+Vivekananda Polytechnic college
 Puttur Neharunagara
