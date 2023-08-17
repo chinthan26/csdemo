@@ -10,10 +10,15 @@ return(n1*n2)
 def div(n1,n2):
 return(n1/n2)
 
+def root(c):
+    return(c*c)
+
+
 a=int(input('Enter num1:'))
 b=int(input('Enter num2:'))
 print('Sum=',add(a,b))
 print('Difference=',sub(a,b))
 print('Product=',mul(a,b))
 print('Quotient=',div(a,b))
-
+d=int(input("Enter num3:"))
+print(root(d))
